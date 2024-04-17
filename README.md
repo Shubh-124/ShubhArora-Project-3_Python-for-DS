@@ -4,7 +4,7 @@
 <p>SQL Page</p>
 ![SQL DB](https://github.com/Shubh-124/ShubhArora-Project-3_Python-for-DS/assets/97666408/4f47d9cf-0f15-4113-861f-0128383e7927)
 <p>Home Page</p>
-![Home Page](https://github.com/Shubh-124/ShubhArora-Project-3_Python-for-DS/assets/97666408/f4f075db-ca30-4a0f-a60e-1d2946a8f75f)
+![Home Page](Screenshots/Home Page.png)
 <p>Register Page</p>
 ![Register Page](https://github.com/Shubh-124/ShubhArora-Project-3_Python-for-DS/assets/97666408/7d593fe2-685c-48fe-a245-1ba89d36d6a7)
 <p>Login Page</p>
